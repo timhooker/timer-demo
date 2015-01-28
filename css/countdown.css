@@ -1,0 +1,17 @@
+body {
+  background: #4c4c4e;
+  color: #fff;
+}
+
+.timer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.timer__value {
+  font-size: 5em;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
